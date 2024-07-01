@@ -26,25 +26,26 @@
 ---
 
 <div align="center">
-  <code><img width="50" src="https://redwoodjs.com/images/brand/mark.svg" alt="RedwoodJS" title="RedwoodJS"/></code>
-  <code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" alt="AstroJS" title="AstroJS"/></code>
-  <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="ReactJS" title="ReactJS"/></code>
-  <code><img width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
-  <code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" alt="Prisma" title="Prisma"/></code>
-  <code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" alt="GraphQL" title="GraphQL"/></code>
-  <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code>
-  <code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
-  <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
+  <img width="50" src="https://redwoodjs.com/images/brand/mark.svg" alt="RedwoodJS" title="RedwoodJS"/>
+  <img width="50" src="https://astro.build/assets/press/astro-icon-light-gradient.svg" alt="AstroJS" title="AstroJS" height="50"/>
+  <img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="ReactJS" title="ReactJS"/>
+  <img width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/>
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" alt="Prisma" title="Prisma"/>
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" alt="GraphQL" title="GraphQL"/>
+  <img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/>
+  <img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>
+  <img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/>
 </div>
 
 <br>
-  
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=aidankmcalister&show_icons=true&theme=radical" alt="Github stats">
-</a>
-<br>
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aidankmcalister&show_icons=true&theme=radical&layout=pie" alt="Top Langs">
-</a>
+
+<div align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=aidankmcalister&show_icons=true&theme=dark" alt="Github stats" height="200">
+  </a>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aidankmcalister&show_icons=true&theme=dark&layout=donut" alt="Top Langs" height="200">
+  </a>
+</div>
 
 
