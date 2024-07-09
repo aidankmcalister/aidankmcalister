@@ -19,8 +19,8 @@
 ---
 
 - 🔭 I’m currently working on **Web Development Projects**.
-- 🌱 I’m never not learning.
-- 👯 I’m looking to collaborate on building communities and contribute to **open source**.
+- 🌱 Always learning.
+- 👯 I’m looking to collaborate and contribute to **open source**.
 - 💬 Ask me about RedwoodJS, React, Tailwind, JavaScript, etc.
 
 ---
