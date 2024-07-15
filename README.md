@@ -16,6 +16,7 @@
   </a>
 </div>
 
+<!---
 ---
 
 - 🔭 I’m currently working on **Web Development Projects**.
@@ -24,7 +25,7 @@
 - 💬 Ask me about RedwoodJS, React, Tailwind, JavaScript, etc.
 
 ---
-
+-->
 <div align="center">
   <img width="50" src="https://redwoodjs.com/images/brand/mark.svg" alt="RedwoodJS" title="RedwoodJS"/>
   <img width="50" src="https://astro.build/assets/press/astro-icon-light-gradient.svg" alt="AstroJS" title="AstroJS" height="50"/>
