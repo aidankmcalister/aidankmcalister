@@ -40,6 +40,7 @@
 
 <br>
 
+<!---
 <div align="center">
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api?username=aidankmcalister&show_icons=true&theme=dark" alt="Github stats" height="200">
@@ -48,5 +49,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aidankmcalister&show_icons=true&theme=dark&layout=donut" alt="Top Langs" height="200">
   </a>
 </div>
+-->
 
 
