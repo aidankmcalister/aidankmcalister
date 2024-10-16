@@ -1,6 +1,5 @@
 <div align="center">
   <h1>Hi there, I'm Aidan McAlister! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-  <p>Welcome to my GitHub profile!</p>
 </div>
 
 <div align="center">
